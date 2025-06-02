@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:33:01.286Z",
+  "generated_at": "2026-09-17T03:33:03.200Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2025-05-30T07:24:12.457Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2025-06-02T04:51:53.652Z",
+      "last_pushed_at": "2025-06-02T04:51:53.652Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-06-02T05:07:25.957Z",
+      "last_pushed_at": "2025-06-02T05:07:25.957Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
