@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:33:10.375Z",
+  "generated_at": "2026-09-17T03:33:12.175Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,32 @@
       "last_pushed_at": "2025-06-17T10:26:18.779Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-01-17T09:33:24.965Z",
+      "last_pushed_at": "2026-01-17T09:33:24.965Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-01-17T21:16:03.665Z",
+      "last_pushed_at": "2026-01-17T21:16:03.665Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
