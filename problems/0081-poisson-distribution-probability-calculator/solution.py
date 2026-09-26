@@ -9,5 +9,7 @@ def poisson_probability(k, lam):
 	"""
 	# Your code here
 	# pass
+	# Optimized using math.exp(-lam) and the exponentiation operator (**)
+    # val = (lam ** k) * math.exp(-lam) / math.factorial(k)
 	val = (math.pow(lam,k))*(math.exp(-1*lam))/math.factorial(k)
 	return round(val,5)
