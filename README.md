@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**31** solved · 30 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-06-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-01-17 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-28 | [solution](problems/0085-positional-encoding-calculator) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-28 | [solution](math/0002-multivariate-calculus) |
 
 ---
 
