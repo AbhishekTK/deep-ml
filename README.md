@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 34 problems · 0 labs · 2 math
+**37** solved · 35 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-25 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-06-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-01-17 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-10-02 | [solution](problems/0088-gpt-2-text-generation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-28 | [solution](problems/0085-positional-encoding-calculator) |
 
 ## Math
