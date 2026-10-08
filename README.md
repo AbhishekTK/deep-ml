@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 41 problems · 0 labs · 3 math
+**45** solved · 42 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-23 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-09-26 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-09-18 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
+| [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-10-08 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-10-07 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-29 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-09-27 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
