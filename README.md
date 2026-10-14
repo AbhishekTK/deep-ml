@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 47 problems · 0 labs · 3 math
+**51** solved · 48 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-09-30 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-09-23 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-18 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-10-14 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-06 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-18 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-06-05 | [solution](problems/0009-matrix-times-matrix) |
