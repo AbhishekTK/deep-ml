@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:04:32.332Z",
+  "generated_at": "2026-10-21T01:15:16.822Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -733,6 +733,19 @@
       "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
       "first_solved_at": "2026-10-20T05:04:33.149Z",
       "last_pushed_at": "2026-10-20T05:04:33.149Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-10-21T01:15:17.027Z",
+      "last_pushed_at": "2026-10-21T01:15:17.027Z",
       "language": "python",
       "lines": 13
     }
