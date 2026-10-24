@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 57 problems · 0 labs · 3 math
+**61** solved · 58 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-10-23 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-09-23 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-18 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-24 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-18 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-10-14 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-06 | [solution](problems/0092-linear-regression-power-grid-optimization) |
