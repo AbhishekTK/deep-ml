@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 59 problems · 0 labs · 3 math
+**63** solved · 60 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-10-10 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-10-11 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-29 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-10-26 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-15 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-09-27 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-09-26 | [solution](problems/0081-poisson-distribution-probability-calculator) |
