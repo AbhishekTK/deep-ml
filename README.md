@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**69** solved · 66 problems · 0 labs · 3 math
+**70** solved · 67 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-06-03 | [solution](problems/0007-matrix-transformation) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-25 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-06-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-11-02 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-03 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-01-17 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-10-02 | [solution](problems/0088-gpt-2-text-generation) |
