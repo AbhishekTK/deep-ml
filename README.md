@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 73 problems · 0 labs · 3 math
+**77** solved · 74 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-10-23 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-09-23 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-10-30 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-10 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-18 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-31 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-11-09 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
