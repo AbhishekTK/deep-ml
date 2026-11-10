@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:25:53.871Z",
+  "generated_at": "2026-11-10T00:30:35.314Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -992,9 +992,9 @@
       "url": "https://www.deep-ml.com/problems/127",
       "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
       "first_solved_at": "2026-11-10T00:25:57.901Z",
-      "last_pushed_at": "2026-11-10T00:25:57.901Z",
+      "last_pushed_at": "2026-11-10T00:30:39.229Z",
       "language": "python",
-      "lines": 12
+      "lines": 26
     }
   }
 }
