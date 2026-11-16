@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:23:19.505Z",
+  "generated_at": "2026-11-16T00:40:45.565Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1060,6 +1060,19 @@
       "last_pushed_at": "2026-11-15T00:23:24.285Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:125": {
+      "kind": "problem",
+      "id": "125",
+      "title": "Implement a Sparse Mixture of Experts Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/125",
+      "path": "problems/0125-implement-a-sparse-mixture-of-experts-layer",
+      "first_solved_at": "2026-11-16T00:40:45.275Z",
+      "last_pushed_at": "2026-11-16T00:40:45.275Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
