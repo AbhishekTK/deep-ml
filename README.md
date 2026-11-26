@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 88 problems · 0 labs · 3 math
+**92** solved · 89 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-11-01 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-10-23 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-09-23 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
+| [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-26 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-10-30 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-10 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-11-25 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
