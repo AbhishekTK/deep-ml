@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:13:25.270Z",
+  "generated_at": "2026-11-27T05:34:44.975Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1190,6 +1190,19 @@
       "last_pushed_at": "2026-11-26T00:13:26.597Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:142": {
+      "kind": "problem",
+      "id": "142",
+      "title": "Gridworld Policy Evaluation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/142",
+      "path": "problems/0142-gridworld-policy-evaluation",
+      "first_solved_at": "2026-11-27T05:34:46.540Z",
+      "last_pushed_at": "2026-11-27T05:34:46.540Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
